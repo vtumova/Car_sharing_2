@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    width: var(--container-width);
+}
+
+:root {
+    --primary-color: #FF0000;
+    --blog-color: #000000;
+    --secondary-color: #FFFFFF;
+    --service-color: #28272C;
+    --header-color: #00000066;
+    --header-shadow: #FFFFFF33;
+    --primary-font: "Nunito Sans";
+    --btn-padding: 22px 55px;
+    --container-width: 1088px;
+
+
+}
+
+.top {
+    background-image: url(../Image/Image.png);
+}
+
